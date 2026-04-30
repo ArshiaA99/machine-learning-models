@@ -29,9 +29,16 @@ Key Features:
   *  Mean Absolute Error (MAE)
   *  R² (Coefficient of Determination)
 
+## 💡 Technologies Used:
+- Python 3.x
+- NumPy
+- Pandas
+- scikit-learn
+
+
 ## ⚙️ How It Works
 When you run the script, it will automatically:
-1. Load the dataset from ../data/housing_price_dataset.csv
+1. Load the dataset from data/housing_price_dataset.csv
 2. Drop the YearBuilt column (as an example)
 3. Separate the data into features (X) and label (Price)
 4. Split the dataset into training and testing sets
@@ -60,3 +67,5 @@ It is just a basic implimentation of this model to show how it is used, but it c
 * Creating interaction terms (Bedroom × Bathroom)
 * Hyperparameter tuning for your SGDRegressor (adjust eta0, alpha, max_iter, penalty='l2')
 * Checking outliers — overly large/small price entries can distort results.
+
+### Credits: Created by Arshia K ([Github: ArshiaA99](https://github.com/ArshiaA99))
