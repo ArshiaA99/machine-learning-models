@@ -1,4 +1,4 @@
-# 📘 Linear Regression Model Example
+# 📘 Linear Regression Model
 
 ## 🧠 What is Linear Regression?
 Linear Regression is a fundamental supervised learning algorithm used for predicting continuous outcomes based on input features.
