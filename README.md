@@ -5,4 +5,5 @@ Models:
 * Support Vector Machine (In progress)
 * Ridge & Lasso Regression (In progress)
 * Decision Tree (In progress)
+* Random Forest (In progress)
 * XGBoost (In progress)
